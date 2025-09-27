@@ -9,4 +9,4 @@ Bitacora: En esta clase el profesor nos dejo por medio de la plataforma Discord 
 
 # ACTIVIDAD #991 23/09/2025 
 BITACORA: Igual manera esta actividad nos la dejo por Discord es sobre (POS) poinst of sales y era investigar sobre este contenido y redactar que era lo que entendimos referente al tema en un archivo que acontinuacion aparece aqui : 
-![tarea991](
+![tarea991](Tarea991POS.pdf)
