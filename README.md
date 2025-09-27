@@ -1,4 +1,4 @@
-# HARDWARE Y SOFTWARE 
+# HARDWARE Y SOFTWARE PARA MiPyMES
 # PARCIAL 2 
 # ACTIVIDAD #992 23/09/2025
 Bitacora: En esta clase el profesor nos dejo por medio de la plataforma Discord una serie de tareas para realizar y una de estas fue sobre el uso de la IA en los aspectos Empresariales, lo realizamos de manera de infografia y pues represnete de manera facil de comprender ...
